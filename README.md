@@ -1,2 +1,2 @@
-# 8-Puzzle-Algorithms
+# 8-Puzzle
 ![](https://i.imgur.com/xmfrw19.png)
